@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/01/IOS.png) -->
+<!-- ![MasterHead]() -->
 
 <h1 align="center">Oi bolha dev, eu sou a Mell 👋🏼</h1>
 <h3 align="center">Uma desenvolvedora do mundo da 🍎</h3>
