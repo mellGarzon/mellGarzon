@@ -1,6 +1,15 @@
 <!-- ![MasterHead]() -->
 
-<h1 align="center">Oi bolha dev, eu sou a Mell 👋🏼</h1>
-<h3 align="center">Uma desenvolvedora frontend</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sankalpcs.com/img/5d76ee875b32330f4a847f42_19-fix.gif">
+# Oi, bolha dev! 👋🏼
+
+Eu sou a **Mell**. Prazer em te ver por aqui! 😄
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho com tecnologias web modernas, principalmente:
+
+- **Angular**
+- **TypeScript**
+- **HTML**
+- **CSS**
+
+Gosto de criar interfaces bonitas e funcionais, escrever código limpo e sempre aprender algo novo no mundo do desenvolvimento. 🚀
 
